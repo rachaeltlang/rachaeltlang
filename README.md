@@ -4,4 +4,4 @@ Coming from a multicultural background, I understand the importance of bridging 
 
 When I’m not busy Googling error messages, you can find me reading anything I can get my hands on or frantically knitting hats and scarves for Wisconsin winters. I love solving problems, and I'm looking forward to a 2024 summer internship where I can further develop my technical and soft skills.
 
-Check out my website at [rachaeltlang.com](http://rachaeltlang.com/)!
+Check out my website at [rachaeltlang.com](https://rachaeltlang.com/)!
