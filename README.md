@@ -1,4 +1,4 @@
-## Hi! I'm Rachael (she/her)
+## Hi! I'm Rachael
 
 I'm a computer science Master's student at the University of Wisconsin-Madison and a software engineer intern at Intel. I've also had two software engineering internship rotations at the J.M. Smucker Company and Target, where I've gained hands-on experience working on software development in a professional environment. On campus, I work as a supervisor at the IT Help Desk.
 
