@@ -1,6 +1,6 @@
 ## Hi! I'm Rachael
 
-I'm a computer science Master's student at the University of Wisconsin-Madison and a software engineer intern at Intel. I've also had two software engineering internship rotations at the J.M. Smucker Company and Target, where I've gained hands-on experience working on software development in a professional environment. On campus, I work as a supervisor at the IT Help Desk.
+I'm a computer science Master's student at the University of Wisconsin-Madison. I've also had three software engineering internship rotations at Intel, Target, and the J.M. Smucker Company, where I've gained hands-on experience working on software development in a professional environment. On campus, I work as a supervisor at the IT Help Desk.
 
 Coming from a multicultural background, I understand the importance of bridging the gap between people, both personally and professionally. I know that my specialization in computer science, compounded with my strong background in writing, gives me a unique and refreshing take on topics in an ever-developing field.
 
